@@ -1,2 +1,2 @@
-# scaling-palm-tree
+# how-to-code
 learn how to code
